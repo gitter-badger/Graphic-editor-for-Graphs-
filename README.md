@@ -1,6 +1,5 @@
 Java Graphical editor for Graphs 
+Still under construction
 
-Still in development.  
-
-By K.Mohsen
-https://github.com/mohsenuss91
+محرر مخططات بياني بلغة جافا
+لا يزال قيد الانشاء
